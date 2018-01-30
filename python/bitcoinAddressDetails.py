@@ -50,6 +50,3 @@ for s in addrList:
 	
 fileBlockList.close()
 print "Done"
-
-
-
